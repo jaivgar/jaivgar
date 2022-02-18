@@ -19,7 +19,7 @@ In my spare time I enjoy relaxing.
   - :octocat: FOSS
   - 📖 Free and open knowledge
 - 📫 I'm not a fan of Twitter and social media in general, but here are some ways how to reach me:
-    - 📨 email: `jaime<dot>garcia<at>ltu<dot>se
+    - 📨 email: `jaime<dot>garcia<at>ltu<dot>se`
     - 🔗 [linkedin](https://www.linkedin.com/in/jaime-garcia-represa/)
 - ⚡ Fun facts:
     - I haven't been a coder from the start of my professional life. I have a degree in Electronics and Automation before I found myself coding.
