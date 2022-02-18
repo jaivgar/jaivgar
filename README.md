@@ -32,6 +32,9 @@ In my spare time I enjoy relaxing.
 ---
 
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/jaivgar/jaivgar/output/github-contribution-grid-snake.svg)
+<!--generated with https://github.com/Platane/snk -->
+
 ---
 
 <!-- This came by default in the README template:
