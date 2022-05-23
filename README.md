@@ -1,6 +1,6 @@
 ### `> echo "hello 👋"`
 
-Hello, anonymous user!
+Hello, github explorer!
 
 ### `> whoami`
 
@@ -12,7 +12,7 @@ In my spare time I enjoy relaxing.
 
 - 🦸‍♂️ By day I work [@LuleåUniversityofTechnology](https://www.ltu.se/?l=en), where I create all sorts of software systems 🤖 using Agile development practices 🔨, with my main research focus areas being workflow management systems for new automation architectures 🧪.
 - 🦹‍♂️ By night I’m currently learning 🌱 [Go](https://go.dev/) and functional programming.
-  - 🌲 My "evergreen goals" are: learning and expanding my programming and leadership skills. I am always excited about new challenges, and I want to be ready for anything I might end up doing profesionally in the fugure. I love learning new stuff, so as Gandhi once said, *"Learn as if you were to live forever"* 📚
+  - 🌲 My "evergreen goals" are: learning and expanding my programming and leadership skills. I am always excited about new challenges, and I want to be ready for anything I might end up doing profesionally in the future. I love learning new stuff, so as Gandhi once said, *"Learn as if you were to live forever"* 📚
 - 💬 Ask me about anything, chances are - I'll be interested.
 - ❤️  Things I care about:
   - 🔏 Online privacy and personal data protection
@@ -31,6 +31,7 @@ In my spare time I enjoy relaxing.
 
 ---
 
+ 😄 Cool looking snake game, not representative of my personal activities
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jaivgar/jaivgar/output/github-contribution-grid-snake.svg)
 <!--generated with https://github.com/Platane/snk -->
